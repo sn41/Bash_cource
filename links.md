@@ -1,0 +1,1 @@
+https://skillbox.ru/media/code/kak-polzovatsya-bash-ekspressrukovodstvo-dlya-nachinayushchikh/
